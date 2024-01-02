@@ -1,0 +1,16 @@
+.start{
+    width: 300px;
+    height: 200px;
+    background-color: grey;
+    color: white;
+    transition: all 0.5s;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    text-align: center;
+    font-size: 30px;
+}
+
+.start:hover{
+background-color: rgb(87, 87, 87);
+}

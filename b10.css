@@ -1,0 +1,19 @@
+.start{
+    width: 300px;
+    height: 200px;
+    border-radius: 0px;
+    background-color: brown;
+    color: white;
+    transition: all 0.1s;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    text-align: center;
+    font-size: 30px;
+}
+
+.start:hover{
+width: 260px;
+height: 160px;
+border: 20px solid blue;
+}
